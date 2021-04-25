@@ -1,0 +1,76 @@
+{
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://w7.pngwing.com/pngs/599/583/png-transparent-computer-icons-textbook-school-book-angle-text-logo.png",
+        "date": "15",
+        "level1": "2",
+        "level2": "3",
+        "level3": "68",
+        "level4": "57"
+      },
+      {
+        "id": 2,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://w7.pngwing.com/pngs/570/672/png-transparent-course-student-teacher-mathematics-lecturer-book-learning-blue-angle-logo.png",
+        "date": "10",
+        "level1": "4",
+        "level2": "6",
+        "level3": "61",
+        "level4": "52"
+      },
+      {
+        "id": 3,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://e7.pngegg.com/pngimages/549/27/png-clipart-mathematics-science-mathematical-association-libreoffice-math-mathematics-text-logo.png",
+        "date": "1",
+        "level1": "8",
+        "level2": "6",
+        "level3": "80",
+        "level4": "59"
+      },
+      {
+        "id": 4,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://e7.pngegg.com/pngimages/424/584/png-clipart-mathematics-mathematical-notation-equation-mathematics-logo-nodejs.png",
+        "date": "9",
+        "level1": "4",
+        "level2": "13",
+        "level3": "62",
+        "level4": "52"
+      },
+      {
+        "id": 5,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://w7.pngwing.com/pngs/28/639/png-transparent-mathematics-course-knowledge-geometry-education-mathematics-text-logo-flower.png",
+        "date": "20",
+        "level1": "8",
+        "level2": "9",
+        "level3": "65",
+        "level4": "55"
+      },
+      {
+        "id": 6,
+        "name": "Matematik 2",
+        "subject": "Fonksiyonlar ve Fonksiyonlarda Uygulamalar",
+        "title": "Konuyla İlgili Uygulamalar",
+        "imageURL": "https://w7.pngwing.com/pngs/884/8/png-transparent-mathematics-computer-icons-mathematical-notation-symbol-mathematics-angle-text-logo.png",
+        "date": "11",
+        "level1": "2",
+        "level2": "4",
+        "level3": "79",
+        "level4": "81"
+      }
+    ]
+  }
